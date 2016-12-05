@@ -1,0 +1,27 @@
+{
+  "name": "rest-your-eyes",
+  "version": "1.0.0",
+  "description": "Rest your eyes while your command runs",
+  "homepage": "https://github.com/siddharthkp/rest-your-eyes#readme",
+  "main": "index.js",
+  "bin": {
+    "rest": "index.js"
+  },
+  "repository": "siddharthkp/rest-your-eyes",
+  "keywords": [
+    "rest",
+    "eyes",
+    "npm",
+    "install"
+  ],
+  "author": "siddharthkp",
+  "license": "MIT",
+  "dependencies": {
+    "brightness": "3.0.0",
+    "sync-exec": "0.6.2",
+    "yargs-parser": "4.2.0"
+  },
+  "engines": {
+    "node": ">6.0.0""
+  }
+}
