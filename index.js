@@ -7,7 +7,7 @@ let initialBrighness = 1;
 const command = process.argv.slice(2).join(' ');
 brightness.get().then(level => {
     initialBrighness = level;
-    brightness.set(0.005);
+    brightness.set(0.001);
     syncExec(command, {stdio: [0, 1, 2]});
     restoreBrightness();
 });
