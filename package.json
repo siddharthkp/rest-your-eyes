@@ -14,7 +14,7 @@
     "npm",
     "install"
   ],
-  "files": ['index.js'],
+  "files": ["index.js"],
   "author": "siddharthkp",
   "license": "MIT",
   "dependencies": {
