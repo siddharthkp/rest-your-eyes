@@ -28,6 +28,6 @@ Or add it to `package.json`:
 ```json
 "scripts": {
   "test": "rest ava",
-  "build": "rest babel src -d"
+  "build": "rest babel src -d lib"
 }
 ```
