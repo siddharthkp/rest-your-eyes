@@ -31,3 +31,7 @@ Or add it to `package.json`:
   "build": "rest babel src -d lib"
 }
 ```
+
+#### Credits
+
+Kudos to [Kevin Mårtensson](https://github.com/kevva) for [brightness](https://github.com/kevva/brightness) ☀️
