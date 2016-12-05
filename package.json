@@ -1,6 +1,6 @@
 {
   "name": "rest-your-eyes",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Rest your eyes while your command runs",
   "homepage": "https://github.com/siddharthkp/rest-your-eyes#readme",
   "main": "index.js",

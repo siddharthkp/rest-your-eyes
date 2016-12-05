@@ -4,7 +4,7 @@ Instead of opening twitter/reddit, rest your eyes!
 
 Your screen will become bright again when the command finishes.
 
-![rest your eyes](https://raw.githubusercontent.com/siddharthkp/rest-your-eyes/master/demo.gif)
+![rest your eyes](https://raw.githubusercontent.com/siddharthkp/rest-your-eyes/master/demo-install.gif)
 
 #### Install
 
@@ -18,9 +18,9 @@ Example
 
 `rest npm install`
 
-`rest gulp build`
+`rest npm test`
 
-`rest git push`
+`rest gulp build`
 
 
 Or add it to `package.json`:
