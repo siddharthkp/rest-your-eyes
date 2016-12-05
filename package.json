@@ -18,10 +18,9 @@
   "license": "MIT",
   "dependencies": {
     "brightness": "3.0.0",
-    "sync-exec": "0.6.2",
-    "yargs-parser": "4.2.0"
+    "sync-exec": "0.6.2"
   },
   "engines": {
-    "node": ">6.0.0""
+    "node": ">6.0.0"
   }
 }
