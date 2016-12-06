@@ -10,6 +10,8 @@ Your screen will become bright again when the command finishes.
 
 `npm install -g rest-your-eyes`
 
+Expects node >= 4.6.2
+
 #### Usage
 
 Run your commands prefixed with `rest`.
